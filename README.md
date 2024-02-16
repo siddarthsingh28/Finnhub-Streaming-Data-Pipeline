@@ -1,4 +1,3 @@
-The related master's thesis is shared on Google Drive here:  https://drive.google.com/file/d/17BBSlaHi5MKmo0qygaceogeOweqCWx9n/view?usp=drivesdk
 ---
 # Finnhub Streaming Data Pipeline
 
